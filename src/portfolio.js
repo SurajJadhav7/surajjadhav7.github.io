@@ -263,7 +263,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification Link",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://www.hackerrank.com/certificates/a1bc725e68f4"
         }
       ]
     },
