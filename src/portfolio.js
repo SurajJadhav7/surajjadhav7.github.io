@@ -247,7 +247,7 @@ const achievementSection = {
       title: "Javascript Algorithms and Data Structures",
       subtitle: "",
       image: require("./assets/images/fccLogo.jpeg"),
-      imageAlt: "FCC Logo",
+      imageAlt: "FeeCodeCamp Logo",
       footerLink: [
         {
           name: "Certification Link",
