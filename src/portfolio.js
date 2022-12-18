@@ -186,10 +186,10 @@ const workExperiences = {
       company: "Sephora",
       companylogo: require("./assets/images/sephoraLogo.png"),
       date: "Sept 2021 – April 2022",
-      // desc: "Worked on Product Details Page, Product waitlist and Reviews Section of Sephora's 18 South Asian websites. Implemented Preview Submission of Review with third party API which instantly sends feedback to user reducing wait time of 4-5 days to few miliseconds."
+      // desc: "Worked on Product Details Page, Product waitlist and Reviews Section of Sephora's 18 South Asian websites. Implemented Preview Submission of Review with third party API which instantly sends feedback to user reducing wait time of 4-5 days to few milliseconds."
       descBullets: [
         "Worked on Product Details Page, Product waitlist and Reviews Section of Sephora's 18 South Asian websites.",
-        "Implemented Preview Submission of Review with third party API which instantly sends feedback to user reducing wait time of 4-5 days to few miliseconds.",
+        "Implemented Preview Submission of Review with third party API which instantly sends feedback to user reducing wait time of 4-5 days to few milliseconds.",
         "Built basic ecommerce app having Product Search using ElasticSearch, Sort, Filter and pagination as well."
       ]
     },
