@@ -177,7 +177,7 @@ const workExperiences = {
       // desc: "Working in Supply team responsible for UI (React) and Backfilling of Resume Parsing. Worked on improving Search latency of Search Service used to search developers by turing customers. Microservice is built with NestJS, Elasticsearch, Logstash, MySQL.",
       descBullets: [
         "Currently working on Supply Side User Interfaces (React.js) and Backfilling of Resume Parsing using TextKernel API.",
-        "Previously worked on improving latency of Search Service which is used to search pool of 2.5M+ developers.",
+        "Previously worked on improving latency of Search Service which is used to search a pool of 2.5M+ developers.",
         "Search Service is built with NestJS, Elasticsearch, Logstash, MySQL."
       ]
     },
