@@ -23,7 +23,7 @@ const greeting = {
   username: "Suraj Jadhav",
   title: "Hi, I'm Suraj",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with TypeScript / Nodejs / Reactjs / MySQL and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with TypeScript / Node / React / MySQL and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/14yPfqhsaKZCd-03sJP7BABadZO3w4stM/view?usp=sharing", // Set to empty to hide the button
@@ -65,7 +65,7 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "nodejs",
+      skillName: "Node",
       fontAwesomeClassname: "fab fa-node"
     },
     {
@@ -73,19 +73,19 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "React",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "html-5",
+      skillName: "HTML-5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "CSS",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "Vue.js",
+      skillName: "Vue",
       fontAwesomeClassname: "fab fa-vuejs"
     },
     {
@@ -97,15 +97,15 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
+      skillName: "AWS",
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
@@ -176,9 +176,9 @@ const workExperiences = {
       date: "May 2022 – Present",
       // desc: "Working in Supply team responsible for UI (React) and Backfilling of Resume Parsing. Worked on improving Search latency of Search Service used to search developers by turing customers. Microservice is built with NestJS, Elasticsearch, Logstash, MySQL.",
       descBullets: [
-        "Currently working on Supply Side User Interfaces (React.js) and Backfilling of Resume Parsing using TextKernel API.",
+        "Currently working on Supply Side User Interfaces (React) and Backfilling of Resume Parsing using TextKernel API.",
         "Previously worked on improving latency of Search Service which is used to search a pool of 2.5M+ developers.",
-        "Search Service is built with NestJS, Elasticsearch, Logstash, MySQL."
+        "Search Service is built with Nest, Elasticsearch, Logstash, MySQL."
       ]
     },
     {
@@ -200,9 +200,9 @@ const workExperiences = {
       date: "March 2019 – Aug 2021",
       // desc: "Developed a scripting tool which helps reduce transaction time by 90%. Handled DevOps Migration process of previous shell scripts and C++ codes. Worked for brief in QA team with Python, Robot Framework and Selenium on Apple's Internal Data Science and Analytics tool."
       descBullets: [
-        "Developed a scripting tool which helps reduce transaction time by 90%.",
+        "Developed a scripting tool which helps to reduce transaction time by 90%.",
         "Handled DevOps Migration process of previous shell scripts and C++ codes to the new systems as per the changed requirements.",
-        "Completed 5 months training Program with the score of 89/100 and 92%le. Training involved Python, SQL and Mainframe Technologies."
+        "Completed 5 months training Program with the score of 89/100 and 92 percentile. Training involved Python, SQL and Mainframe Technologies."
       ]
     }
   ]
