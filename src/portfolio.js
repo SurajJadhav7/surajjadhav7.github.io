@@ -174,22 +174,36 @@ const workExperiences = {
       company: "Turing.com",
       companylogo: require("./assets/images/turingLogo.png"),
       date: "May 2022 – Present",
-      desc: "Working in Supply team responsible for UI (React) and Backfilling for Resume Parsing. Worked on improving Search latency of Search Service used to search developers by turing customers. Microservice is built with NestJS, Elasticsearch, Logstash, MySQL.",
-      descBullets: []
+      // desc: "Working in Supply team responsible for UI (React) and Backfilling of Resume Parsing. Worked on improving Search latency of Search Service used to search developers by turing customers. Microservice is built with NestJS, Elasticsearch, Logstash, MySQL.",
+      descBullets: [
+        "Currently working on Supply Side User Interfaces (React.js) and Backfilling of Resume Parsing using TextKernel API.",
+        "Previously worked on improving latency of Search Service which is used to search pool of 2.5M+ developers.",
+        "Search Service is built with NestJS, Elasticsearch, Logstash, MySQL."
+      ]
     },
     {
       role: "Jr. Software Engineer",
       company: "Sephora",
       companylogo: require("./assets/images/sephoraLogo.png"),
       date: "Sept 2021 – April 2022",
-      desc: "Worked on Product Details Page, Product waitlist and Reviews Section of Sephora's 18 South Asian websites. Implemented Preview Submission of Review with third party API which instantly sends feedback to user reducing wait time of 4-5 days to few miliseconds."
+      // desc: "Worked on Product Details Page, Product waitlist and Reviews Section of Sephora's 18 South Asian websites. Implemented Preview Submission of Review with third party API which instantly sends feedback to user reducing wait time of 4-5 days to few miliseconds."
+      descBullets: [
+        "Worked on Product Details Page, Product waitlist and Reviews Section of Sephora's 18 South Asian websites.",
+        "Implemented Preview Submission of Review with third party API which instantly sends feedback to user reducing wait time of 4-5 days to few miliseconds.",
+        "Built basic ecommerce app having Product Search using ElasticSearch, Sort, Filter and pagination as well."
+      ]
     },
     {
       role: "System Engineer",
       company: "Infosys",
       companylogo: require("./assets/images/infosysLogo.png"),
       date: "March 2019 – Aug 2021",
-      desc: "Developed a scripting tool which helps reduce transaction time by 90%. Handled DevOps Migration process of previous shell scripts and C++ codes. Worked for brief in QA team with Python, Robot Framework and Selenium on Apple's Internal Data Science and Analytics tool."
+      // desc: "Developed a scripting tool which helps reduce transaction time by 90%. Handled DevOps Migration process of previous shell scripts and C++ codes. Worked for brief in QA team with Python, Robot Framework and Selenium on Apple's Internal Data Science and Analytics tool."
+      descBullets: [
+        "Developed a scripting tool which helps reduce transaction time by 90%.",
+        "Handled DevOps Migration process of previous shell scripts and C++ codes to the new systems as per the changed requirements.",
+        "Completed 5 months training Program with the score of 89/100 and 92%le. Training involved Python, SQL and Mainframe Technologies."
+      ]
     }
   ]
 };
