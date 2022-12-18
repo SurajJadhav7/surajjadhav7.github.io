@@ -174,7 +174,7 @@ const workExperiences = {
       company: "Turing.com",
       companylogo: require("./assets/images/turingLogo.png"),
       date: "May 2022 – Present",
-      desc: "Working in Supply team reponsible for UI (React) and Backfilling for Resume Parsing. Worked on improving Search latency of Search Service used to search developers by turing customers. Microservice is built with NestJS, Elasticsearch, Logstash, MySQL.",
+      desc: "Working in Supply team responsible for UI (React) and Backfilling for Resume Parsing. Worked on improving Search latency of Search Service used to search developers by turing customers. Microservice is built with NestJS, Elasticsearch, Logstash, MySQL.",
       descBullets: []
     },
     {
